@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 cd # MERN Stack | Login, Registration and CRUD app - For Beginners
 
 ## 🔆 🍃 Nodejs(Express.js) + mongoDB + mongoose + JWT + react.js + material-ui + axios(API call)
@@ -58,3 +59,6 @@ To run react frontend
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+=======
+# alexquality
+>>>>>>> fa981d5d (Initial commit)
